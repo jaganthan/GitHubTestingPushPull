@@ -16,7 +16,7 @@ public class GitHubPushPull {
 	
 	public static void main(String[] args) {
 		GitHubPushPull p = new GitHubPushPull();
-		p.input();
+		p.input()
 		//p.txt();
 	}
 }
