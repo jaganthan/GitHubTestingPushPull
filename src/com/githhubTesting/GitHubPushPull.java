@@ -10,9 +10,13 @@ public class GitHubPushPull {
 	}
 	private void txt()
 	{
-		//System.out.println("Name: Jaganathan");
+		System.out.println("Name: Jaganathan");
 		System.out.println("Manimaran");
+<<<<<<< HEAD
+		System.out.println("jothi");
+=======
 
+>>>>>>> ca4b0eaaa5072c5e4e9743de4b2e96e892678527
 	}
 	
 	public static void main(String[] args) {
