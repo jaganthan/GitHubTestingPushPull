@@ -12,11 +12,11 @@ public class GitHubPushPull {
 	{
 		System.out.println("Name: Jaganathan");
 		System.out.println("Manimaran");
-<<<<<<< HEAD
-		System.out.println("jothi");
-=======
 
->>>>>>> ca4b0eaaa5072c5e4e9743de4b2e96e892678527
+		System.out.println("jothi");
+
+
+
 	}
 	
 	public static void main(String[] args) {
