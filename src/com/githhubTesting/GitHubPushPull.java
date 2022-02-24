@@ -10,7 +10,7 @@ public class GitHubPushPull {
 	}
 	private void txt()
 	{
-		System.out.println("Name: Jaganathan");
+		
 	}
 	
 	public static void main(String[] args) {
